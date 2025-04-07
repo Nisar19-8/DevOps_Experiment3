@@ -1,3 +1,4 @@
+//Nisar Navalekar
 //Perfect Square No Check
 num = int(input("Enter a number: "))
 
